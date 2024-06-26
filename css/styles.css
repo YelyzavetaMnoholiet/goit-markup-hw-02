@@ -59,6 +59,10 @@ a {
     color: #404bbf;
 }
 
+.address {
+    font-style: normal;
+}
+
 .contacts-info {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -71,7 +75,7 @@ a {
     color: #404bbf;
 }
 
-.content-info:focus{
+.contacts-info:focus{
     color: #404bbf;
 }
 
