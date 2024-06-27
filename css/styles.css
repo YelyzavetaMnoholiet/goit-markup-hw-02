@@ -6,6 +6,9 @@ body {
     background-color: #fff;
     font-style: normal;
 }
+ ul, ol {
+    list-style-type: none;
+ }
 
 a {
     text-decoration: none;
